@@ -1,0 +1,16 @@
+## Dependencies:
+This project requires the following Python libraries:
+pandas==1.5.3
+numpy==1.24.0
+matplotlib==3.6.3
+seaborn==0.11.2
+
+Ensure these dependencies are installed before running the notebook.
+
+## How to Use:
+1. Clone this repository.
+2. Install dependencies.
+3. Open and run `EDA(Exploratory Data Analysis).ipynb` in Jupyter Notebook.
+
+## Author:
+Hoshang Sheth
